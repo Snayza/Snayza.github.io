@@ -13,13 +13,12 @@ Welcome to SNAYZA, an educational website inspired by cybersecurity, ethical hac
 
 🎯 Purpose
 
-This website is created for educational, experimental, and portfolio purposes. Its goal is to explore cybersecurity concepts, web development, and cybersecurity-inspired interface design.
+This website is created for educational, experimental, and portfolio purposes
 
 ⚠️ Educational Use Only
 
 SNAYZA is a learning project, not a real cybersecurity platform.
 
-The website is intended for demonstration and educational purposes only. Any simulated dashboards, alerts, logs, or security-related elements should not be interpreted as real-time security monitoring or actual threat detection.
 
 The website does not claim to provide real-world cybersecurity protection.
 
