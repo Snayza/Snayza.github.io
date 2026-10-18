@@ -1,6 +1,6 @@
 # SNAYZA CyberSec Portfolio
 
-.
+
 
 ![image alt](https://github.com/Snayza/Snayza.github.io/blob/main/Screenshot%202026-10-18%20202505.png?raw=true)
 
